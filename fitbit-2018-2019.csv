@@ -1,4 +1,4 @@
-﻿Date,Calories Burned,Steps,Distance,Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories,RHR,RHR 1 Day,RHR Change,RHR 2 Day,RHR 3 Day,RHR 4 Day,Start Time,End Time,Minutes Asleep,Minutes Awake,Number of Awakenings,Time in Bed,Minutes REM Sleep,Minutes Light Sleep,Minutes Deep Sleep
+﻿Date,Calories Burned,Steps,Distance,Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories,RHR Day 1,RHR Day 2,RHR Change,RHR Day 3,RHR Day 4,RHR Day 5,Start Time,End Time,Minutes Asleep,Minutes Awake,Number of Awakenings,Time in Bed,Minutes REM Sleep,Minutes Light Sleep,Minutes Deep Sleep
 4/1/2018,"2,744","4,239",1.97,0,628,241,0,0,"1,007",58,57,-1,58,59,59,2018-03-31 10:13PM,2018-04-01 7:44AM,508,63,19,571,96,292,120
 4/2/2018,"3,761","10,129",4.63,11,632,333,32,24,"2,097",57,58,1,59,59,58,2018-04-01 11:15PM,2018-04-02 6:14AM,376,43,15,419,120,177,79
 4/3/2018,"3,328","8,009",3.72,0,700,287,5,8,"1,528",58,59,1,59,58,59,2018-04-02 10:13PM,2018-04-03 5:33AM,405,35,15,440,136,156,113
